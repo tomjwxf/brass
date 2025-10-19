@@ -1,7 +1,0 @@
-name = "brass-issuer-pro"
-main = "dist/worker.mjs"
-compatibility_date = "2024-11-01"
-workers_dev = true
-
-[vars]
-ISSUER_NAME = "brass-issuer-pro"
